@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hareom284" alt="hareom284" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hareom011" target="blank"><img src="https://img.shields.io/twitter/follow/hareom011?logo=twitter&style=for-the-badge" alt="hareom011" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hareom11" target="blank"><img src="https://img.shields.io/twitter/follow/hareom11?logo=twitter&style=for-the-badge" alt="hareom11" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
