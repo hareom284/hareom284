@@ -23,7 +23,7 @@
 <a href="https://twitter.com/hareom011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hareom011" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zaw-zaw-win-b63140198" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zaw-zaw-win-b63140198" height="30" width="40" /></a>
 <a href="https://fb.com/zaw zaw win" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="zaw zaw win" height="30" width="40" /></a>
-<a href="https://medium.com/@hareom284" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hareom284" height="30" width="40" /></a>
+<a href="https://medium.com/@zawzawwinucsl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hareom284" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hareom284" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hareom284" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hareom284" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="hareom284" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hareom284" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="hareom284" height="30" width="40" /></a>
