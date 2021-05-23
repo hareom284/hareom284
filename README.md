@@ -7,5 +7,5 @@
 
 - 👨‍💻 All of my projects are available at [https://zawzawwin.me](https://zawzawwin.me)
 
-- 📫 How to reach me **zawzawwin328@gmail.com**
+- 📫 How to reach me **hareom284@gmail.com**
 
