@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaw Zaw Win (Hare Om)</h1>
 <h3 align="center">I am a student from Computer University,Loikaw</h3>
 
-![](https://hit.yhype.me/github/profile?user_id=64596861)
+![Profile](https://hit.yhype.me/github/profile?user_id=64596861)
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
