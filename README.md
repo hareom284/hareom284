@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaw Zaw Win (Hare Om)</h1>
-<h3 align="center">I am a student from Computer University,Loikaw</h3>
+<h3 align="center">I am passinate in web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hareom284&label=Profile%20views&color=0e75b6&style=flat" alt="hareom284" /> </p>
 
