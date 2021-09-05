@@ -9,7 +9,7 @@
 
 - I am enthusiastic about opensource projects.
 
-- I love learning new technology and sharing on my twitter.
+- I love learning new technology and writing content on my twitter.
 
 - 📫 How to reach me **hareom284@gmail.com**
 
