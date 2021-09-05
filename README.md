@@ -7,5 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://zawzawwin.me](https://zawzawwin.me)
 
+- I am enthusiastic about opensource projects.
+
+- I love learning new technology and sharing on my twitter.
+
 - 📫 How to reach me **hareom284@gmail.com**
 
