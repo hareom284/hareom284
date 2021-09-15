@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**!
 
-- 👨‍💻 All of my projects are available at [https://zawzawwin.me](https://zawzawwin.me)
+- 👨‍💻 All of my projects are available at my github repos!
 
 - I am enthusiastic about opensource projects.
 
