@@ -13,3 +13,6 @@
 
 - 📫 How to reach me **hareom284@gmail.com**
 
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hareom284&show_icons=true&theme=black&layout=compact)](https://github.com/hareom284/github-readme-stats)
+
