@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my github repos!
 
-- I am enthusiastic about opensource projects.
-
-- I love learning new technology and writing content on my twitter.
+- I love learning new technology and building cool project that help for my own or community on daily basic problems.
 
 - 📫 How to reach me **hareom284@gmail.com**
 
