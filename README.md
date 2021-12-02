@@ -13,3 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hareom284)](https://github.com/hareom284/github-readme-stats)
 
+![Hare Om's Status](https://github-readme-stats.vercel.app/api?username=hareom284&show_icons=true&theme=dracula)
