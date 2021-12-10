@@ -11,5 +11,9 @@
 - 📫 How to reach me **hareom284@gmail.com**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hareom284)](https://github.com/hareom284/github-readme-stats)![Hare Om's Status](https://github-readme-stats.vercel.app/api?username=hareom284&show_icons=true&theme=dracula)[![Hare Om's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hareom284)](https://github.com/hareom284/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hareom284)](https://github.com/hareom284/github-readme-stats)
+
+![Hare Om's Status](https://github-readme-stats.vercel.app/api?username=hareom284&show_icons=true&theme=dracula)
+
+[![Hare Om's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hareom284)](https://github.com/hareom284/github-readme-stats)
 
