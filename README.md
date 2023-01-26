@@ -7,7 +7,7 @@
 
 - 🏢 I am currently working as a **Software Developer**.
 - 🎓 Studies for Computer Science at [University of Computer Studies,Loikaw](http://ucsloikaw.edu.mm/)
-- 🏡'Lives in **Yangon,Myanmar**
+- 🏡 Lives in **Yangon,Myanmar**
 - 💻 I love learning and building way and happy to collaborate  with these technology react,node,vue,laravel and php.
 - ⚡ **Fun Facts** : She is my everthing.
 <br>
