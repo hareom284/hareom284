@@ -1,5 +1,14 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Hare Om </h1>
+![Hare Om](https://github.com/hareom284/hareom284/assets/64596861/14c151f9-da5d-47f0-952b-15a353a5c6ee)
+
+
+## Making all kinds of cool things in Myanmar(Burma)
+
+
+
+<p align="justify">
+Hi there(Namaste)! I'm a highly skilled full-stack developer with expertise in ReactJS, Node.js, Vue.js, Electron.js, and Laravel.
+</p>
 
 ![GitHub followers](https://img.shields.io/github/followers/hareom284?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hareom284.repoName) <img src="https://komarev.com/ghpvc/?username=hareom284" alt="haerom284" />
 
