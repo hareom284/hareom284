@@ -7,7 +7,7 @@
 
 
 <p align="justify">
-Hi there(Namaste)! I'm a highly skilled full-stack developer with expertise in ReactJS, Node.js, Vue.js, Electron.js, and Laravel.
+I'm a software developer specializing in fullstack development, although I consider myself a code generalist and get excited about solving just about any problem.
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/hareom284?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hareom284.repoName) <img src="https://komarev.com/ghpvc/?username=hareom284" alt="haerom284" />
