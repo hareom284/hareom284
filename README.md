@@ -7,7 +7,7 @@
 
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;    I'm a software developer specializing in fullstack development, although I consider myself a code generalist and get excited about solving just about any problem.
+  &nbsp;&nbsp;&nbsp;    I'm a software Engineer at Onenex specializing in fullstack development, although I consider myself a code generalist and get excited about solving just about any problem.
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/hareom284?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hareom284.repoName) <img src="https://komarev.com/ghpvc/?username=hareom284" alt="haerom284" />
