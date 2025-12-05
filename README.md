@@ -1,10 +1,8 @@
 # Hare Om's Portfolio
 
-![Hare Om])
-
 Welcome to my GitHub portfolio! Below, you'll find a summary of projects I've worked on, showcasing my skills in software engineering with a focus on web technologies like Laravel, Vue.js, and GraphQL.
 
-![Uploading Hare Om.png…](https://github.com/user-attachments/assets/050675f5-662d-4850-b011-bd1bc66e8486)
+![Hare Om](https://github.com/user-attachments/assets/050675f5-662d-4850-b011-bd1bc66e8486)
 
 ## Projects Overview
 
